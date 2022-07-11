@@ -284,7 +284,6 @@
      color: white;
  }
  .container{
-     padding-top: 0%;
      text-align: center;
      vertical-align: middle;
      width: 100%;
@@ -293,7 +292,6 @@
  
  @media only screen and (max-width: 900px) {
      .container {
-         padding-top: 0%;
          text-align: center;
          vertical-align: middle;
          width: 100%;
