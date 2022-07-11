@@ -293,7 +293,7 @@
  
  @media only screen and (max-width: 900px) {
      .container {
-         width: 90%;
+         width: 100%;
      }
      #file-name{
        font-size: 4vh;
