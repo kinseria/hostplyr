@@ -220,20 +220,6 @@
      }
  }
  
- body{
-     height: 100vh;
-     display: flex;
-     background-image: var(--bg-color);
-     transition: background-image 1s;
-     background-size: 500%;
-     flex-direction: column;
-     margin: 0;
-     padding: 0;
-     align-items: center;
-     justify-content: center;
-     animation: move 20s alternate infinite;
- }
- 
  body.cyber {
      background-image: linear-gradient(90deg, #f5ed00, #e6de00);
      animation: move 20s alternate infinite;
