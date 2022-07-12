@@ -143,23 +143,3 @@
      font-size: 1.1rem;
  }
  
- .plyr--full-ui input[type=range] {
-     color: var(--player-hover-color);
- }
- .plyr__control--overlaid {
-     background: #1E1E1E;
- }
- 
- .plyr--video .plyr__control.plyr__tab-focus,
- .plyr--video .plyr__control:hover,
- .plyr--video .plyr__control[aria-expanded=true] {
-     background: var(--player-hover-color);
- }
- 
- .plyr__control.plyr__tab-focus {
-     box-shadow: 0 0 0 5px ;
- }
- 
- .plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]::before {
-     background: violet;
- }
