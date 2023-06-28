@@ -2,11 +2,11 @@
 #EXT-X-VERSION:3
 
 # Quality definitions
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=250000,RESOLUTION=1280x720
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+#EXT-X-STREAM-INF:BANDWIDTH=100000,RESOLUTION=640x360
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 # Audio tracks
